@@ -1,0 +1,1 @@
+{"description":"A deterministic program that writes one line of terrible AI advice to /output/entry.txt.","license":"MIT","main":"main.ts","name":"worst-ai-advice","type":"module","version":"1.0.0"}
